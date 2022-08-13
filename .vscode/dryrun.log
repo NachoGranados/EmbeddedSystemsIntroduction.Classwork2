@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork2'
+make: Leaving directory '/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork2'
+ 
+Makefile:1: *** missing separator.  Stop.
+
